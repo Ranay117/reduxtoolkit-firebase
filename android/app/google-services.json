@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474161871621",
+    "project_id": "reduxtoolkit-440d2",
+    "storage_bucket": "reduxtoolkit-440d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474161871621:android:8ccc8caf93ab2979ef156c",
+        "android_client_info": {
+          "package_name": "com.reduxtoolkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474161871621-1csa87fkvvda87q0s58p38kkh72aj22e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATV5LKR0fR1mM2V9Md6Qh26yso905hrNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474161871621-1csa87fkvvda87q0s58p38kkh72aj22e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474161871621-ieda7fsfsrussdno8kl5jpfscs7ah131.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reduxtoolkit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
